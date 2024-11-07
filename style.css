@@ -604,3 +604,24 @@ footer{
 .detalhes a:hover{
   color: var(--primary-color);
 }
+
+
+/* Personalizando a scrollbar para o navegador Webkit */
+::-webkit-scrollbar {
+  width: 15px; /* Largura da scrollbar */
+  height: 1px; /* Altura da scrollbar (para scroll horizontal) */
+}
+
+::-webkit-scrollbar-track {
+  background: #555; /* Cor do fundo da scrollbar */
+  border-radius: 1px; /* Bordas arredondadas */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f9ac54; /* Cor da parte que você arrasta */
+  border-radius: 10px; /* Bordas arredondadas */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d79447; /* Cor do thumb quando o mouse passa por cima */
+}
