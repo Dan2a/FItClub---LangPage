@@ -19,10 +19,10 @@ A página foi desenvolvida com foco em um design responsivo e uma experiência d
 
 Você pode acessar a página web ao vivo e interagir com ela através do seguinte link:
 
-[FitClub Live Page](https://github.com/Dan2a/FItClub---LangPage)
+[FitClub Live Page](https://fit-club-coral.vercel.app/)
 
 ## Repositório GitHub
 
 Para acessar o código-fonte, contribuir ou explorar mais detalhes sobre o desenvolvimento do projeto, visite o repositório no GitHub:
 
-[FitClub - Landing Page no GitHub](https://fit-club-coral.vercel.app/)
+[FitClub - Landing Page no GitHub](https://github.com/Dan2a/FItClub---LangPage)
